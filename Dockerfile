@@ -8,3 +8,4 @@ RUN apt-get update \
 RUN cd /var/lib/go-server/plugins/external \
     && wget -i /gocd_plugins.txt \
     && chmod 644 *.jar
+RUN echo -e "StrictHostKeyChecking no\nUserKnownHostsFile=/dev/null" >> /etc/ssh/ssh_config
