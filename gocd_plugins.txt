@@ -1,3 +1,4 @@
+https://github.com/ashwanthkumar/gocd-slack-build-notifier/releases/download/v1.4.0-RC11/gocd-slack-notifier-1.4.0-RC11.jar
 https://github.com/gocd-contrib/script-executor-task/releases/download/0.3/script-executor-0.3.0.jar
 https://github.com/tomzo/gocd-yaml-config-plugin/releases/download/0.4.0/yaml-config-plugin-0.4.0.jar
 https://github.com/Haufe-Lexware/gocd-plugins/blob/master/bin/gocd-docker-compose-plugin-1.0.0.jar
