@@ -4,7 +4,7 @@ https://github.com/tomzo/gocd-yaml-config-plugin/releases/download/0.4.0/yaml-co
 https://github.com/Haufe-Lexware/gocd-plugins/blob/master/bin/gocd-docker-compose-plugin-1.0.0.jar
 https://github.com/Haufe-Lexware/gocd-plugins/blob/master/bin/gocd-docker-pipeline-plugin-1.0.0.jar
 https://github.com/gocd-contrib/gocd-build-status-notifier/releases/download/1.2/github-pr-status-1.2.jar
-https://github.com/ashwanthkumar/gocd-build-github-pull-requests/releases/download/v1.3.0-RC2/git-fb-poller-1.3.0-RC2.jar
-https://github.com/ashwanthkumar/gocd-build-github-pull-requests/releases/download/v1.3.0-RC2/github-pr-poller-1.3.0-RC2.jar
+https://github.com/ashwanthkumar/gocd-build-github-pull-requests/releases/download/v1.3.1/git-fb-poller-1.3.1.jar
+https://github.com/ashwanthkumar/gocd-build-github-pull-requests/releases/download/v1.3.1/github-pr-poller-1.3.1.jar
 https://github.com/Haufe-Lexware/gocd-plugins/blob/master/bin/gocd-nessus-scan-plugin-1.0.0.jar
 https://github.com/danielsomerfield/go-strong-auth-plugin/releases/download/0.1.0%2B12/strong-auth-0.1-12.jar
