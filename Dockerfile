@@ -1,4 +1,4 @@
-FROM gocd/gocd-server:16.12.0
+FROM gocd/gocd-server:17.2.0
 MAINTAINER Kenny Casagrande kbcasagrande@gmail.com
 COPY gocd_plugins.txt /
 RUN apt-get update \
